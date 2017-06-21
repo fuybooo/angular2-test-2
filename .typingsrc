@@ -1,0 +1,4 @@
+{
+    "proxy": "http://<proxyURI>:<port>",
+    "rejectUnauthorized": false
+}

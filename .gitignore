@@ -1,5 +1,7 @@
 .idea
 /node_modules
+/app/*.js
+/app/*.js.map
 .git/
 *~
 npm-debug.log
